@@ -27,7 +27,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 4640 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 4641 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -49,7 +49,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1885 |
+| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1886 |
 | 2 |  [WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 | cmliu | 5109 |
 
 **[⬆ Back to Index](#-contents)**
