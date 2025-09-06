@@ -27,7 +27,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 4944 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 4945 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -56,7 +56,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | 521xueweihan | 15815 |
+| 1 |  [git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | 521xueweihan | 15816 |
 
 **[⬆ Back to Index](#-contents)**
 
