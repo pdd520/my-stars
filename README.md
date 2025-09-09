@@ -56,7 +56,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | 521xueweihan | 15819 |
+| 1 |  [git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | 521xueweihan | 15820 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -76,7 +76,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [clouddrive2](https://github.com/sublaim/clouddrive2) | clouddrive2 一键安装脚本 | sublaim | 12 |
-| 2 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 7411 |
+| 2 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 7409 |
 
 **[⬆ Back to Index](#-contents)**
 
