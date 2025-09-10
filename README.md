@@ -49,7 +49,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 | cmliu | 5187 |
+| 1 |  [WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 | cmliu | 5188 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -84,8 +84,8 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [moemail](https://github.com/beilunyang/moemail) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 1569 |
-| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 18440 |
-| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 38679 |
+| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 18445 |
+| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 38680 |
 
 **[⬆ Back to Index](#-contents)**
 
