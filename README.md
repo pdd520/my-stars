@@ -21,7 +21,7 @@
 ## C#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | files-community | 39564 |
+| 1 |  [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | files-community | 39565 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -35,7 +35,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 5348 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 5346 |
 
 **[⬆ Back to Index](#-contents)**
 
