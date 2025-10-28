@@ -73,7 +73,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具 | JoeanAmier | 12111 |
+| 1 |  [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具 | JoeanAmier | 12112 |
 | 2 |  [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | A tool designed to simplify the creation of OpenCore EFI | lzhoang2801 | 1904 |
 | 3 |  [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。 | Usagi-org | 6525 |
 | 4 |  [iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；推流；IPv4/IPv6；接口验效；工作流、Docker、命令行、GUI多端部署 \| IPTV live streaming source automatic update platform | Guovin | 19538 |
@@ -94,7 +94,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [moemail](https://github.com/beilunyang/moemail) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 1641 |
-| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 21351 |
+| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 21352 |
 | 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 39531 |
 
 **[⬆ Back to Index](#-contents)**
