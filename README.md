@@ -21,7 +21,7 @@
 ## C#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | files-community | 40504 |
+| 1 |  [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | files-community | 40505 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -85,7 +85,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 59 |
+| 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 60 |
 | 2 |  [clouddrive2](https://github.com/sublaim/clouddrive2) | clouddrive2 一键安装脚本 | sublaim | 15 |
 | 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 8874 |
 
