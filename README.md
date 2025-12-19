@@ -85,7 +85,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [moemail](https://github.com/beilunyang/moemail) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 \| A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | beilunyang | 1783 |
-| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 22921 |
+| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 22922 |
 | 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 40542 |
 
 **[⬆ Back to Index](#-contents)**
