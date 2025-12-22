@@ -27,7 +27,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6618 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6619 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -77,7 +77,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 163 |
 | 2 |  [clouddrive2](https://github.com/sublaim/clouddrive2) | clouddrive2 一键安装脚本 | sublaim | 17 |
-| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 9759 |
+| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 9760 |
 
 **[⬆ Back to Index](#-contents)**
 
