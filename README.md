@@ -20,7 +20,7 @@
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [sub-web-modify](https://github.com/cmliu/sub-web-modify) | Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！ | cmliu | 165 |
+| 1 |  [sub-web-modify](https://github.com/cmliu/sub-web-modify) | Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！ | cmliu | 166 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -86,7 +86,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [moemail](https://github.com/beilunyang/moemail) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 \| A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | beilunyang | 1827 |
 | 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 23192 |
-| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 40871 |
+| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 40872 |
 
 **[⬆ Back to Index](#-contents)**
 
