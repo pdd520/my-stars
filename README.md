@@ -20,7 +20,7 @@
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [sub-web-modify](https://github.com/cmliu/sub-web-modify) | Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！ | cmliu | 180 |
+| 1 |  [sub-web-modify](https://github.com/cmliu/sub-web-modify) | Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！ | cmliu | 179 |
 
 **[⬆ Back to Index](#-contents)**
 
