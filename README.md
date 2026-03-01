@@ -28,7 +28,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 7635 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 7636 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -50,7 +50,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 23184 |
+| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 23185 |
 | 2 |  [WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 | cmliu | 5598 |
 
 **[⬆ Back to Index](#-contents)**
@@ -85,7 +85,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 208 |
 | 2 |  [clouddrive2](https://github.com/sublaim/clouddrive2) | clouddrive2 一键安装脚本 | sublaim | 22 |
-| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 10896 |
+| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 10897 |
 
 **[⬆ Back to Index](#-contents)**
 
