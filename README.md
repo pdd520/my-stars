@@ -29,7 +29,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 9491 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 9490 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -51,14 +51,14 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 | cmliu | 6044 |
+| 1 |  [WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 | cmliu | 6043 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | 521xueweihan | 15846 |
+| 1 |  [git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | 521xueweihan | 15847 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -85,7 +85,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 219 |
 | 2 |  [clouddrive2](https://github.com/sublaim/clouddrive2) | clouddrive2 一键安装脚本 | sublaim | 27 |
-| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 12524 |
+| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 12523 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -93,8 +93,8 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 2726 |
-| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 27392 |
-| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 45243 |
+| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 27393 |
+| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 45244 |
 
 **[⬆ Back to Index](#-contents)**
 
