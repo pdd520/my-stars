@@ -22,21 +22,21 @@
 ## Dockerfile
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 23704 |
+| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 23706 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 9529 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 9530 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## HTML
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [CHINA-IPTV](https://github.com/xisohi/CHINA-IPTV) | 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！ | xisohi | 1610 |
+| 1 |  [CHINA-IPTV](https://github.com/xisohi/CHINA-IPTV) | 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！ | xisohi | 1612 |
 | 2 |  [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) | Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog | mzlogin | 1663 |
 
 **[⬆ Back to Index](#-contents)**
@@ -72,11 +72,11 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具 | JoeanAmier | 15163 |
-| 2 |  [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | A tool designed to simplify the creation of OpenCore EFI | lzhoang2801 | 7059 |
-| 3 |  [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Usagi-org | 13675 |
+| 1 |  [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具 | JoeanAmier | 15164 |
+| 2 |  [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | A tool designed to simplify the creation of OpenCore EFI | lzhoang2801 | 7060 |
+| 3 |  [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Usagi-org | 13679 |
 | 4 |  [iptv-api](https://github.com/Guovin/iptv-api) | ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署 | Guovin | 24632 |
-| 5 |  [GitHub520](https://github.com/521xueweihan/GitHub520) | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | 521xueweihan | 29124 |
+| 5 |  [GitHub520](https://github.com/521xueweihan/GitHub520) | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | 521xueweihan | 29127 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -92,9 +92,9 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 2741 |
-| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 27712 |
-| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 45284 |
+| 1 |  [moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 2740 |
+| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 27751 |
+| 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 45287 |
 
 **[⬆ Back to Index](#-contents)**
 
