@@ -29,7 +29,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 9715 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 9714 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -72,7 +72,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | agentscope-ai | 33742 |
+| 1 |  [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | agentscope-ai | 33743 |
 | 2 |  [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具 | JoeanAmier | 15410 |
 | 3 |  [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | A tool designed to simplify the creation of OpenCore EFI | lzhoang2801 | 7229 |
 | 4 |  [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Usagi-org | 14130 |
@@ -94,7 +94,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 2785 |
-| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 28253 |
+| 2 |  [open-lovable](https://github.com/firecrawl/open-lovable) | 🔥 Clone and recreate any website as a modern React app in seconds | firecrawl | 28254 |
 | 3 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 45731 |
 
 **[⬆ Back to Index](#-contents)**
