@@ -22,7 +22,7 @@
 ## Dockerfile
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 24415 |
+| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 24416 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -72,7 +72,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | agentscope-ai | 34070 |
+| 1 |  [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | agentscope-ai | 34073 |
 | 2 |  [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具 | JoeanAmier | 15460 |
 | 3 |  [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | A tool designed to simplify the creation of OpenCore EFI | lzhoang2801 | 7274 |
 | 4 |  [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Usagi-org | 14148 |
@@ -86,7 +86,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 220 |
 | 2 |  [clouddrive2](https://github.com/sublaim/clouddrive2) | clouddrive2 一键安装脚本 | sublaim | 31 |
-| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 12796 |
+| 3 |  [reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | bin456789 | 12797 |
 
 **[⬆ Back to Index](#-contents)**
 
