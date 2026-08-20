@@ -22,7 +22,7 @@
 ## Dockerfile
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 24428 |
+| 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 24427 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -102,7 +102,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [sub-web-modify](https://github.com/cmliu/sub-web-modify) | Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！ | cmliu | 263 |
+| 1 |  [sub-web-modify](https://github.com/cmliu/sub-web-modify) | Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！ | cmliu | 264 |
 
 **[⬆ Back to Index](#-contents)**
 
